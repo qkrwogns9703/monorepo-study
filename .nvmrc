@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "packageManager": "pnpm@8.11.0"
+}
